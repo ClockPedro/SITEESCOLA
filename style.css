@@ -1,2 +1,10 @@
-header{background-color: rgb(120, 000, 100);}
+*{margin: 16;
+padding: 10;}
+.cabecalho {background-color: rgb(255, 1, 1);
+color: bisque;
+display: flex;
+justify-content: space-around;}
  .cabecalho-imagem{width: 15%;}
+ .cabecalho-lista-item{
+display:ruby-base-container ;
+margin: 3 15px;}
