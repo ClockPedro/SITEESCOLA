@@ -3,14 +3,14 @@
 padding: 0;
 }
 .cabecalho {background-color: rgb(255, 1, 1);
-color: bisque;
+color: rgb(0, 0, 0);
 display: flex;
 justify-content: space-around;
-padding: 24px 0;
+padding: 23px 0;
 }
  .cabecalho-imagem{
     width: 15%;
-    height: 5%;}
+    height: 10%;}
  .cabecalho-lista-item{
 display:ruby-base-container;
 margin: 3 15px;
@@ -21,3 +21,17 @@ h1
     margin: 0 16px;
     padding: 120px 0;
     font-size: 35px;}
+p
+{margin: 0 20px}
+ 
+.escola-imagem{
+   width: 20%;
+}
+.escola{
+   background-image:linear-gradient(red, rgb(255, 249, 249));
+   color:rgb(0, 0, 0);
+   display: flex;
+    justify-content: baseline;
+    padding: 22px;
+   }
+   
