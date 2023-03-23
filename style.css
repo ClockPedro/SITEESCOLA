@@ -22,16 +22,21 @@ h1
     padding: 120px 0;
     font-size: 35px;}
 p
-{margin: 0 20px}
+{margin: 0 50px}
  
 .escola-imagem{
-   width: 20%;
+   width: 15%;
 }
 .escola{
    background-image:linear-gradient(red, rgb(255, 249, 249));
    color:rgb(0, 0, 0);
    display: flex;
     justify-content: baseline;
-    padding: 22px;
+    padding: 50px;
    }
-   
+div{width: 50%;}
+.escola-titulo
+{padding: 50px 50px;}
+.aluno-um{
+   width: 20%;
+}
