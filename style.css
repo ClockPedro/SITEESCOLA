@@ -40,3 +40,15 @@ div{width: 50%;}
 .aluno-um{
    width: 20%;
 }
+.estudante-icone{
+   width: 150px;
+}
+.estudante-div{
+   text-align: end;
+}
+.aluno-dois{
+   width: 30%;
+}
+.estudante-div-dois{
+   text-align: end;
+}
