@@ -27,7 +27,8 @@ h1
     padding: 120px 0;
     font-size: 35px;}
 p
-{margin: 0 50px}
+{margin: 0 50px;
+font-size: 25px;}
  
 .escola-imagem{
    width: 15%;
@@ -65,6 +66,8 @@ p
 footer{
    background-color: black;
    color: aliceblue;
+   justify-content: center;
+   text-align: center;
    padding: 20px;
 
 }
